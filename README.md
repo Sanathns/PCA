@@ -1,2 +1,2 @@
 # PCA
-This GitHub repository for the data science course assignment on Principal Component Analysis (PCA). 
+This GitHub repository for the data science course assignment on Principal Component Analysis (PCA). This assignment delves into the fundamental concepts and applications of PCA, showcasing its effectiveness in dimensionality reduction and feature extraction. The repository includes the code implementation, documentation, and a comprehensive analysis of the results obtained. By sharing this assignment on GitHub, I aim to contribute to the data science community and demonstrate my proficiency in PCA techniques.
